@@ -1,0 +1,9 @@
+/output
+*/output
+/Debug
+*/Debug
+/.vscode
+*/.vscode
+/.settings
+*/.settings
+!*/bin/*.exe
